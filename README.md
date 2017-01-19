@@ -1,6 +1,6 @@
 # TMDb Movie Search
 
-TMDb Movie Search is a responsive [ReactJS](http://facebook.github.io/react/index.html) demo app which utilises Twitter's [typeahead.js](https://twitter.github.io/typeahead.js/) and [Bloodhound] (https://github.com/twitter/typeahead.js/blob/master/doc/bloodhound.md) suggestion engine, loading data via [The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api).
+TMDb Movie Search is a responsive [ReactJS](http://facebook.github.io/react/index.html) app that utilises Twitter's [typeahead.js](https://twitter.github.io/typeahead.js/) and [Bloodhound] (https://github.com/twitter/typeahead.js/blob/master/doc/bloodhound.md) suggestion engine, loading data via [The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api).
 
 ## Demo
 [TMDb Movie Search - Live DEMO] (https://skempin.github.io/reactjs-tmdb-app/)
@@ -29,12 +29,13 @@ If you would like to download the code and try it for yourself:
 4. Open your browser at: `http://localhost:9000`
 
 ## Browser Support
-This project makes usage of the Fetch API, with a polyfill for older browsers.
+This project makes usage of the Fetch API, utilising a polyfill for older browsers.
 
 - Chrome
 - Firefox
-- Safari 6.1+
-- Internet Explorer 10+
+- Safari 10+
+- Internet Explorer 11+
+- Edge 14+
 
 ## Author
 [Stephen Kempin] (http://www.stephenkempin.co.uk)
